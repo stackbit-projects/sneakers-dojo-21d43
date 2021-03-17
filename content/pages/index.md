@@ -42,9 +42,7 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+        text: Are you serious he has stuff that hasn't even shipped yet!
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
