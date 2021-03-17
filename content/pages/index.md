@@ -45,7 +45,7 @@ sections:
         text: Are you serious he has stuff that hasn't even shipped yet!
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: New Shoes
     subtitle: from $149.99
     image: images/139769285_447001542989656_4527640685553868451_n.jpg
     background_image: images/139217622_318921876122822_540004059756308975_n.jpg
