@@ -36,7 +36,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: Alex Patterson
           location: 'Colorado, USA'
         text: Kyle's Shoe selection is mind blowing. He is really easy to work with!
       - author:
