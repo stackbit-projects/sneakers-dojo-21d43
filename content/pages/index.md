@@ -36,7 +36,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: Alex Patterson
+          name: 'Alex Patterson, MI, USA'
           location: 'Colorado, USA'
         text: Kyle's Shoe selection is mind blowing. He is really easy to work with!
       - author:
