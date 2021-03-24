@@ -15,7 +15,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-    background_image: images/circuit-board.png
+    background_image: images/137557384_145877587190645_1982057045669100988_n.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
