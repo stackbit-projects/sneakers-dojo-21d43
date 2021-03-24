@@ -15,7 +15,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-    background_image: images/kind-spruce.jpg
+    background_image: images/circuit-board.png
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
